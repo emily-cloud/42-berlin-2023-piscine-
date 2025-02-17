@@ -36,7 +36,7 @@ Through this experience, I improved my ability to:
 - Follow strict coding standards and best practices.
 
 ## Author
-Written by Hai( Huyuan Ai) during the 42 Berlin Piscine.
+Written by Huyuan Ai during the 42 Berlin Piscine.
 
 
 
